@@ -15,3 +15,6 @@ Like <a target="_blank" href="https://github.com/notsnowden/dotfiles">dotfiles</
     <li>.zprofile to start Hyprland after login from tty</li>
     <li>some wallpapers of mine (yanked from some super kind users)</li>
 </ul>
+
+<h2>Example</h2>
+<img src="examples/vaporwave.png">
