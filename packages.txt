@@ -30,6 +30,7 @@ telegram-desktop 4.7.1-1
 thunar 4.18.4-1
 tldr 3.1.0-4
 ttc-iosevka 18.0.0-1
+ttf-font-awesome-5 5.15.4-1
 unrar 1:6.2.6-1
 unzip 6.0-19
 wev-git 1.0.0.r4.g0fc0549-1
