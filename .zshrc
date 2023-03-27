@@ -87,7 +87,6 @@ alias i="sudo pacman -Sy"
 alias uni="sudo pacman -Rns"
 alias iy="yay"
 alias update="yay -Syyu"
-alias agogay="yay -Syyu"
 
 # system aliases
 alias stutate="shutdown now"
@@ -107,4 +106,3 @@ alias checkout="git checkout"
 # other aliases
 alias v="nvim"
 alias j="java"
-alias orario="feh ~/images/orario.jpg"
