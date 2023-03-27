@@ -16,6 +16,7 @@ fontconfig 2:2.14.2-1
 fzf 0.38.0-1
 hyprland 0.23.0beta-2
 jfetch-git r104.25c8cf6-1
+gimp-2.10.34-1
 grim 1.4.0-3
 kvantum 1.0.9-1
 lxappearance 0.6.3-4
