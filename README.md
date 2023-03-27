@@ -1,2 +1,5 @@
 # hyprdotfiles
-My ~vaporwave~ Arch Linux + Hyprland rice
+
+Like <a href="https://github.com/notsnowden/dotfiles">dotfiles</a>, but in Hyprland
+<br>
+<b>What's in here?</b>
