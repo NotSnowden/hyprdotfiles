@@ -1,6 +1,6 @@
 # hyprdotfiles
 
-Like <a target="_blank" href="https://github.com/notsnowden/dotfiles">dotfiles</a>, but in Hyprland
+Like <a href="https://github.com/notsnowden/dotfiles">dotfiles</a>, but in Hyprland
 <br><br>
 <b>What's in here?</b>
 <br>
