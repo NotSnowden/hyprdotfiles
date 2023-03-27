@@ -12,8 +12,8 @@ export EDITOR="/usr/share/vim"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="dstufft"
 
-# Run jfetch when opening a new zsh session. jfetch is cute af, period
-jfetch
+# Run pfetch when opening a new zsh session
+pfetch
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -87,6 +87,7 @@ alias i="sudo pacman -Sy"
 alias uni="sudo pacman -Rns"
 alias iy="yay"
 alias update="yay -Syyu"
+alias agogay="yay -Syyu"
 
 # system aliases
 alias stutate="shutdown now"
@@ -106,3 +107,4 @@ alias checkout="git checkout"
 # other aliases
 alias v="nvim"
 alias j="java"
+alias orario="feh ~/images/orario.jpg"
