@@ -5,7 +5,6 @@ Like <a href="https://github.com/notsnowden/dotfiles">dotfiles</a>, but in Hyprl
 <b>What's in here?</b>
 <br>
 <ul>
-    <li>my favorite apps</li>
     <li>hyprland config</li>
     <li>waybar config</li>
     <li>wofi config</li>
@@ -13,7 +12,8 @@ Like <a href="https://github.com/notsnowden/dotfiles">dotfiles</a>, but in Hyprl
     <li>nvim config (not much in it)</li>
     <li>.zshrc with all my beautiful aliases</li>
     <li>.zprofile to start Hyprland after login from tty</li>
-    <li>some wallpapers of mine (yanked from some super kind users)</li>
+    <li>some cool apps I need for my workflow (give them a look if you want to use this dots)</li>
+    <li>some wallpapers (yanked from super kind users in unixp*rn)</li>
 </ul>
 
 <h2>Example</h2>
