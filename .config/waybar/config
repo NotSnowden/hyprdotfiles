@@ -6,8 +6,8 @@
     "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": ["wlr/workspaces"],
-    "modules-center": ["clock"],
-    "modules-right": ["pulseaudio", "network", "cpu", "memory", "backlight", "battery"],
+    "modules-center": ["hyprland/window"],
+    "modules-right": ["pulseaudio", "network", "cpu", "memory", "battery", "clock"],
     // Modules configuration
     /*"wlr/workspaces": {
          "disable-scroll": true,
@@ -24,6 +24,9 @@
              "default": ""
          }
     },*/
+    "hyprland/window": {
+        "max-length": 30
+    },
     "keyboard-state": {
         "numlock": true,
         "capslock": true,
