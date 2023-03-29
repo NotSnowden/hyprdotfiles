@@ -5,9 +5,9 @@
     // "width": 1280, // Waybar width
     "spacing": 8, // Gaps between modules (8px)
     // Choose the order of the modules
-    "modules-left": ["clock", "battery", "wlr/workspaces"],
+    "modules-left": ["network", "pulseaudio", "wlr/workspaces"],
     "modules-center": ["hyprland/window"],
-    "modules-right": ["pulseaudio", "network", "cpu", "memory"],
+    "modules-right": ["temperature", "cpu", "memory", "battery", "clock"],
     // Modules configuration
     /*"wlr/workspaces": {
          "disable-scroll": true,

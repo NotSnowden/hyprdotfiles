@@ -5,7 +5,6 @@
 
 window#waybar {
     background-color: rgba(43, 48, 59, 0.5);
-    border-bottom: 3px solid rgba(100, 114, 125, 0.5);
     color: #ffffff;
     transition-property: background-color;
     transition-duration: .5s;
@@ -89,7 +88,7 @@ button:hover {
 #mpd {
     padding: 0 10px;
     color: #ffffff;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 #window,
@@ -160,7 +159,7 @@ label:focus {
 }
 
 #network {
-    background-color: #8600b3;
+    background-color: #ac00e6;
 }
 
 #network.disconnected {
@@ -201,7 +200,7 @@ label:focus {
 }
 
 #temperature {
-    background-color: #4c0066;
+    background-color: #8600b3;
 }
 
 #temperature.critical {
