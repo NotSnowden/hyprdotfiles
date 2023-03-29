@@ -3,11 +3,11 @@
     // "position": "bottom", // Waybar position (top|bottom|left|right)
     "height": 35, // Waybar height (to be removed for auto height)
     // "width": 1280, // Waybar width
-    "spacing": 4, // Gaps between modules (4px)
+    "spacing": 8, // Gaps between modules (8px)
     // Choose the order of the modules
-    "modules-left": ["wlr/workspaces"],
+    "modules-left": ["clock", "battery", "wlr/workspaces"],
     "modules-center": ["hyprland/window"],
-    "modules-right": ["pulseaudio", "network", "cpu", "memory", "battery", "clock"],
+    "modules-right": ["pulseaudio", "network", "cpu", "memory"],
     // Modules configuration
     /*"wlr/workspaces": {
          "disable-scroll": true,
