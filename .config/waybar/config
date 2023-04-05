@@ -9,21 +9,9 @@
     "modules-center": ["hyprland/window"],
     "modules-right": ["temperature", "cpu", "memory", "battery", "clock"],
     // Modules configuration
-    /*"wlr/workspaces": {
-         "disable-scroll": true,
-         "all-outputs": true,
-         "format": "{name}: {icon}",
-         "format-icons": {
-             "1": "",
-             "2": "",
-             "3": "",
-             "4": "",
-             "5": "",
-             "urgent": "",
-             "focused": "",
-             "default": ""
-         }
-    },*/
+    "wlr/workspaces": {
+        "on-click": "activate",
+    },
     "hyprland/window": {
         "max-length": 45
     },
