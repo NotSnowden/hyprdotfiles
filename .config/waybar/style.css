@@ -51,6 +51,10 @@ button:hover {
     color: #ffffff;
 }
 
+#workspaces button.active {
+    background: rgba(0, 0, 0, 0.2);
+}
+
 #workspaces button:hover {
     background: rgba(0, 0, 0, 0.2);
 }
