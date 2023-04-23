@@ -16,6 +16,7 @@ set autoindent              " indent a new line the same amount as the line just
 set number                  " add line numbers
 set wildmode=longest,list   " get bash-like tab completions
 set mouse=a                 " turn on mouse click
+set clipboard=unnamedplus   " place yanked text into the global clipboard
 syntax on                   " syntax highlighting
 
 imap <Caps_Lock> <Esc>
