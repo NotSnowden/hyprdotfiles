@@ -8,6 +8,7 @@ Like <a href="https://github.com/notsnowden/dotfiles">dotfiles</a>, but for Hypr
     <li>hyprland -> compositor</li>
     <li>waybar -> status bar</li>
     <li>wofi -> apps launcher</li>
+    <li>swaylock-effects -> fancy lock screen</li>
     <li>alacritty -> terminal emulator</li>
     <li>nvim -> text editor (not much in it)</li>
     <li>.zshrc -> my beautiful aliases</li>
