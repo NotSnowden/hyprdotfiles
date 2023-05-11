@@ -9,6 +9,7 @@ firefox 111.0.1-1
 font-manager 0.8.8-1
 fzf 0.38.0-1
 htop 3.2.2-1
+hyprland 0.25.0-1
 hyprpaper-git r87.6196197-1
 hyprpicker-git r45.234c2da-1
 jfetch-git r104.25c8cf6-1
